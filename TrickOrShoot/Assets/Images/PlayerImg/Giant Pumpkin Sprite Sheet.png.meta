@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: f1453057f3b0e76418ef2d342777d9f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 576
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b9c607f6b4b3848a2195a0448a459e
+      internalID: -1128317060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 576
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f72eb7144277744afddbc20b9f5545
+      internalID: 784284458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 576
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d06f309b8ef9754f8bcb9436953e4dd
+      internalID: 1375057798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 576
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220246f0442782c44884f2f15ba898f2
+      internalID: 1752514639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 480
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e8e7c0f7bd6f54ea0b671cf84b2b28
+      internalID: 1889260671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a4ef68d1edc444db6c91be103567be
+      internalID: -2002711807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4328998f5520d3647950df43ac3da789
+      internalID: 239782632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 480
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b170bbaa46a3eb34ca3f926b3120048b
+      internalID: 1200858788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 480
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134c7894e08b70b49acb9b7a23a41c43
+      internalID: 1163308116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 480
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ae13ac8511ade47a53884d12296d56
+      internalID: -1256746137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 384
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1b5cc0be7544749a268db3d9a7cc6f
+      internalID: 123795667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 384
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285249b458c0f424cab560616b6ae848
+      internalID: -1344499835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 384
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad7bc51db0f2934d9d2be81ec475b8b
+      internalID: 1516720813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 384
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf28b6d8df9f5440bf59a561f1dc09a
+      internalID: -186551762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 384
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363f785f1d9a6446ae10833584e5661
+      internalID: 1410254249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 384
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b3dbb0e7818bf4686d2c33d1a1b3e5
+      internalID: -409586628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 384
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca436e31d82e947956b906d8decdcc
+      internalID: 63706363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 415
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca22ef8187fc9e4a872edcebfd8c5a7
+      internalID: -363634328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 384
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760108c20273cd94b8a9ee25a0645293
+      internalID: 1571411150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 418
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d91229d58f1154db9e4534e5a8bdb3
+      internalID: 546930085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 384
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a4937fe83125459329259343b5c3e
+      internalID: 488202799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 384
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5332d6f381cdf94ea62ef40c7d8ae9e
+      internalID: 903786527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 384
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0a9233431eae9419b3937627fed694
+      internalID: -268781760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 384
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a644da2e4cb16140a4968bb043349be
+      internalID: 1574182922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 406
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bca40bf7fcfa84aa27d1428859dde8
+      internalID: 214089048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 400
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39219a589f0584429451f58e1d0e81c
+      internalID: 659650573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 395
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e8db5fdc8e31441bc19b28d24cb07c
+      internalID: 1534170175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 407
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840be04750d8d9b4f8331d916b54ccc0
+      internalID: -771214920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 403
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3a3d5a76df66409c0ef579fd26f6e
+      internalID: 176960158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 401
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55509fe7163fc64aa7d11d0145eecdd
+      internalID: -316587379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 394
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e54498eafe1449acb1da4b4341525
+      internalID: 1909011796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 397
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0712241c55c634d8e4763808392937
+      internalID: -217226951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 394
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2629d473fcd7e8b429b5d9e9c0ca9def
+      internalID: 1708446155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 390
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595f98fbec7a1d48849072f4a9dfead
+      internalID: -414282858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 390
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a16fe70d07f9914e82c8de92a34860b
+      internalID: 168934044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 390
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1360fcfe1cb28464198c0307fa4ee30e
+      internalID: 39236310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 390
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7144eb524b0324caf86dc020b05893
+      internalID: -1026653038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 384
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442193e1ebdbbd4bb8b1a6c5fb342d5
+      internalID: -457283262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf082ce79563c479cc46bdf4580a60
+      internalID: 1565200686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908f8638a059f143998135469c127fe
+      internalID: -1404188683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 288
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068b850620cecb499d547e193f1cdc1
+      internalID: 1177632040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 288
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a7491ab5620ca40b0ee63c38fdec86
+      internalID: -127744155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 288
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778895a9b9f17e8448f439327ca430f9
+      internalID: -273810301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 203
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4552fd42385fdc04eb3ad44816d3a76a
+      internalID: -948647168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 204
+        width: 79
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f6506482096db41aaeed19506f2672
+      internalID: -710844375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 204
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39b8cfa90d36241bb0878f976a945a
+      internalID: -18931229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 205
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ab7f6c723cdb542b6021ea3bf68a65
+      internalID: -1348333803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 201
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b722e60a1146c2447a9b82608413a225
+      internalID: 528965237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 200
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda4c25dd56fb524987383848fc6a56e
+      internalID: 1368709199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0fbf34ecc38146a4bcae35c6d94a9
+      internalID: 202068884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 96
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4df58857332504cb9604963dc8bbdd
+      internalID: -1608587848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 96
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda52dcd8f4bef3449f6b2537f176392
+      internalID: 2067988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 96
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df1a3f2b0d0b74c99a42d4e5b2e106
+      internalID: -471557802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 68
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7abccf3df53ee42882e3e4e718adcf
+      internalID: -989406465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 83
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce122ea4cfdea4a97cc68d588bea3b
+      internalID: 1114028732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 63
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e96bc45c6c094bb1b458933be2d14
+      internalID: -629022962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 80
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb40612ca2dc24e9159cfff84749bb
+      internalID: 1057586198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 6
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003808ea965fd6144bb755a44988355c
+      internalID: -1785632263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 5
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68698e7c6c96b439b2d22cd4910927
+      internalID: -1042787360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e718ccfa4d5d40b38cf0e6c1f0b2c
+      internalID: -968573785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a478098cf3561c40a47984fa98801e9
+      internalID: 2006447576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 58
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794cf6bc894f40d418c52d788041d9c2
+      internalID: 528745750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 8
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ad613b3c8bd94b87ece70694aea3b
+      internalID: 1804282306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 62
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e465e4fe3013a438a08e2cb4e308bb
+      internalID: -2110410818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 5
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cddf75e64939d4ca0ba95449c433ca
+      internalID: 1519752481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 55
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f266748dabae948ae8b063ddd46acb
+      internalID: -520105056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 7
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da99ced1bb37d804f9ad42dcbc1e55b6
+      internalID: -571778918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868fc4b4889ba3447b6f02fe01f63e46
+      internalID: 674063515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cacd0f38ecc3e44ace37f2ba813a6a
+      internalID: -1721900762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9acd1cd126ae3428bcd0721ab653e3
+      internalID: 842185176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca62db9d81e3e547a31bc6f00b35c0f
+      internalID: 2094523732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 10
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4193b9c449bd94a8b394b6b32b544b
+      internalID: 707981702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 7
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af71aedbcd8753648a9e05c5550044e6
+      internalID: 651775347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 0
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be300ea328ea73b49905837c8f1eb61b
+      internalID: 619049256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Pumpkin Sprite Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 0
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d901d31a1e5a722408bf9ef2610e12ba
+      internalID: 155332814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Giant Pumpkin Sprite Sheet_64: 1519752481
+      Giant Pumpkin Sprite Sheet_28: 176960158
+      Giant Pumpkin Sprite Sheet_35: 39236310
+      Giant Pumpkin Sprite Sheet_18: 1571411150
+      Giant Pumpkin Sprite Sheet_36: -1026653038
+      Giant Pumpkin Sprite Sheet_3: 1752514639
+      Giant Pumpkin Sprite Sheet_74: 155332814
+      Giant Pumpkin Sprite Sheet_47: 528965237
+      Giant Pumpkin Sprite Sheet_5: -2002711807
+      Giant Pumpkin Sprite Sheet_38: 1565200686
+      Giant Pumpkin Sprite Sheet_70: 2094523732
+      Giant Pumpkin Sprite Sheet_57: -1785632263
+      Giant Pumpkin Sprite Sheet_20: 488202799
+      Giant Pumpkin Sprite Sheet_24: 214089048
+      Giant Pumpkin Sprite Sheet_53: -989406465
+      Giant Pumpkin Sprite Sheet_37: -457283262
+      Giant Pumpkin Sprite Sheet_42: -273810301
+      Giant Pumpkin Sprite Sheet_11: -1344499835
+      Giant Pumpkin Sprite Sheet_69: 842185176
+      Giant Pumpkin Sprite Sheet_49: 202068884
+      Giant Pumpkin Sprite Sheet_72: 651775347
+      Giant Pumpkin Sprite Sheet_40: 1177632040
+      Giant Pumpkin Sprite Sheet_48: 1368709199
+      Giant Pumpkin Sprite Sheet_43: -948647168
+      Giant Pumpkin Sprite Sheet_31: -217226951
+      Giant Pumpkin Sprite Sheet_23: 1574182922
+      Giant Pumpkin Sprite Sheet_55: -629022962
+      Giant Pumpkin Sprite Sheet_9: -1256746137
+      Giant Pumpkin Sprite Sheet_16: 63706363
+      Giant Pumpkin Sprite Sheet_22: -268781760
+      Giant Pumpkin Sprite Sheet_8: 1163308116
+      Giant Pumpkin Sprite Sheet_71: 707981702
+      Giant Pumpkin Sprite Sheet_39: -1404188683
+      Giant Pumpkin Sprite Sheet_33: -414282858
+      Giant Pumpkin Sprite Sheet_1: 784284458
+      Giant Pumpkin Sprite Sheet_50: -1608587848
+      Giant Pumpkin Sprite Sheet_32: 1708446155
+      Giant Pumpkin Sprite Sheet_14: 1410254249
+      Giant Pumpkin Sprite Sheet_56: 1057586198
+      Giant Pumpkin Sprite Sheet_73: 619049256
+      Giant Pumpkin Sprite Sheet_41: -127744155
+      Giant Pumpkin Sprite Sheet_44: -710844375
+      Giant Pumpkin Sprite Sheet_15: -409586628
+      Giant Pumpkin Sprite Sheet_46: -1348333803
+      Giant Pumpkin Sprite Sheet_13: -186551762
+      Giant Pumpkin Sprite Sheet_26: 1534170175
+      Giant Pumpkin Sprite Sheet_54: 1114028732
+      Giant Pumpkin Sprite Sheet_27: -771214920
+      Giant Pumpkin Sprite Sheet_59: -968573785
+      Giant Pumpkin Sprite Sheet_63: -2110410818
+      Giant Pumpkin Sprite Sheet_66: -571778918
+      Giant Pumpkin Sprite Sheet_62: 1804282306
+      Giant Pumpkin Sprite Sheet_7: 1200858788
+      Giant Pumpkin Sprite Sheet_25: 659650573
+      Giant Pumpkin Sprite Sheet_45: -18931229
+      Giant Pumpkin Sprite Sheet_4: 1889260671
+      Giant Pumpkin Sprite Sheet_12: 1516720813
+      Giant Pumpkin Sprite Sheet_60: 2006447576
+      Giant Pumpkin Sprite Sheet_6: 239782632
+      Giant Pumpkin Sprite Sheet_30: 1909011796
+      Giant Pumpkin Sprite Sheet_67: 674063515
+      Giant Pumpkin Sprite Sheet_61: 528745750
+      Giant Pumpkin Sprite Sheet_2: 1375057798
+      Giant Pumpkin Sprite Sheet_10: 123795667
+      Giant Pumpkin Sprite Sheet_17: -363634328
+      Giant Pumpkin Sprite Sheet_58: -1042787360
+      Giant Pumpkin Sprite Sheet_0: -1128317060
+      Giant Pumpkin Sprite Sheet_21: 903786527
+      Giant Pumpkin Sprite Sheet_19: 546930085
+      Giant Pumpkin Sprite Sheet_34: 168934044
+      Giant Pumpkin Sprite Sheet_51: 2067988
+      Giant Pumpkin Sprite Sheet_68: -1721900762
+      Giant Pumpkin Sprite Sheet_29: -316587379
+      Giant Pumpkin Sprite Sheet_52: -471557802
+      Giant Pumpkin Sprite Sheet_65: -520105056
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
